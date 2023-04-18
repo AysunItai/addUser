@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adduser/static/css/main.4a42ba5e.css",
+    "main.js": "/adduser/static/js/main.2b48dab5.js",
+    "index.html": "/adduser/index.html",
+    "main.4a42ba5e.css.map": "/adduser/static/css/main.4a42ba5e.css.map",
+    "main.2b48dab5.js.map": "/adduser/static/js/main.2b48dab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a42ba5e.css",
+    "static/js/main.2b48dab5.js"
+  ]
+}
